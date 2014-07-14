@@ -20,6 +20,18 @@
     <!-- Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    
+    
+    
+    
+    <link rel="stylesheet" href="/css/flat-ui.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/icon-font.css">
+	<link rel="stylesheet" href="/css/content-sections.css">
+
+
+    
+    <!--END-->
 
     <!-- IE8 support for HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -32,7 +44,7 @@
 <body id="page-top" class="index">
 
     <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top" style="min-width:100%;">
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
@@ -42,8 +54,9 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand" href="#page-top">KevWashington</a>
             </div>
+
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -52,13 +65,13 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">Portfolio</a>
+                        <a href="#portfolio">My Skills</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">About</a>
+                        <a href="#about">More About Me</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Contact</a>
+                        <a href="#contact">Work With Me?</a>
                     </li>
                 </ul>
             </div>
@@ -67,394 +80,433 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
-                    <div class="intro-text">
-                        <span class="name">Start Bootstrap</span>
-                        <hr class="star-light">
-                        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+  
+    
+    
+    
+    
+    
+    
+    <!-- PARALLAX CHANGES -->
+    
+    
+    	<!-- PARALLAX HERO-->
+            <section class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            
+                <div>
+                    <div class="container">
+                        <div class="hero-unit">
+                            <h1>MAIN HERO</h1>
+                        
+                        </div>
+                        <span class="glyphicon glyphicon-chevron-down"></span>
+                    </div>
+                    
+                </div>
+               
+            </section>
+    	<!--END-->
+    
+    
+    
+    <section class="header-10-sub v-center bg-midnight-blue">
+                <div class="background">
+                    &nbsp;
+                </div>
+                <div>
+                    <div class="container">
+                        <div class="hero-unit">
+                            <h1>Section to break up the parallax images</h1>
+                            <p>
+                                Maybe some teaser content here?
+                                <br/>
+                                Or something that builds value immediately
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </header>
+                <a class="control-btn fui-arrow-down" href="#"> </a>
+            </section>
+            
+            
+            
+            <!-- ***********************SKILLS PARALLAX HERO************************-->
+            <section class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            
+                <div>
+                    <div class="container">
+                        <div class="hero-unit">
+                            <h1>SKILLS HERO</h1>
+                        
+                        </div>
+                        <span class="glyphicon glyphicon-chevron-down"></span>
+                    </div>
+                    
+                </div>
+               
+            </section>
+    	<!--*******************END****************************-->
 
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="" />
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="" />
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="" />
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="" />
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="" />
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="" />
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section class="success" id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>About</h2>
-                    <hr class="star-light">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
-                </div>
-                <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
-                </div>
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="http://startbootstrap.com/freelancer" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
 
-    <section id="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2>Contact Me</h2>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <form role="form">
-                        <div class="row">
-                            <div class="form-group col-xs-12 floating-label-form-group">
-                                <label for="name">Name</label>
-                                <input class="form-control" type="text" name="name" placeholder="Name">
+
+
+            <!-- SKILLS- LEAD GENERATION -->
+            <section class="content-x v-center">
+                <div>
+
+                    <div class="container">
+                        <h3>LEAD GENERATION SECTION</h3>
+
+                        <div class="row v-center">
+                            <div class="col-sm-3">
+                                <div>
+                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
+                                    support.
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="col-sm-offset-1">
+                                    <div class="screen-wrapper">
+                                        <div class="screen">
+                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
+                                            <img src="../../common-files/img/content/screen.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="col-sm-offset-2">
+                                    <h6>Responsive Layout</h6>
+                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
+                                    <h6>Retina Ready</h6>
+                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
+                                </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="form-group col-xs-12 floating-label-form-group">
-                                <label for="email">Email Address</label>
-                                <input class="form-control" type="email" name="email" placeholder="Email Address">
+                    </div>
+                </div>
+            </section>
+            <!-- END LEAD GEN SECTION -->
+            
+            
+            
+            
+            <!-- SKILLS- CUSTOMER ACQUISITION -->
+            <section class="content-8 v-center">
+                <div>
+
+                    <div class="container">
+                        <h3>CUSTOMER ACQUISITION SECTION</h3>
+
+                        <div class="row v-center">
+                            <div class="col-sm-3">
+                                <div>
+                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
+                                    support.
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="col-sm-offset-1">
+                                    <div class="screen-wrapper">
+                                        <div class="screen">
+                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
+                                            <img src="../../common-files/img/content/screen.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="col-sm-offset-2">
+                                    <h6>Responsive Layout</h6>
+                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
+                                    <h6>Retina Ready</h6>
+                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
+                                </div>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="form-group col-xs-12 floating-label-form-group">
-                                <label for="message">Message</label>
-                                <textarea placeholder="Message" class="form-control" rows="5"></textarea>
+                    </div>
+                </div>
+            </section>
+            <!-- END CUST ACQ SECTION -->
+            
+            
+            <!-- SKILLS- PRODUCT DEVELOPMENT -->
+            <section class="content-9 v-center">
+                <div>
+
+                    <div class="container">
+                        <h3>PRODUCT DEVELOPMENT SECTION</h3>
+
+                        <div class="row v-center">
+                            <div class="col-sm-3">
+                                <div>
+                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
+                                    support.
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="col-sm-offset-1">
+                                    <div class="screen-wrapper">
+                                        <div class="screen">
+                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
+                                            <img src="../../common-files/img/content/screen.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="col-sm-offset-2">
+                                    <h6>Responsive Layout</h6>
+                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
+                                    <h6>Retina Ready</h6>
+                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
+                                </div>
                             </div>
                         </div>
-                        <br>
-                        <div class="row">
-                            <div class="form-group col-xs-12">
-                                <button type="submit" class="btn btn-lg btn-success">Send</button>
+                    </div>
+                </div>
+            </section>
+            <!-- END PROD DEV SECTION -->
+            
+            
+            
+            
+            
+            <!-- SKILLS- BUSINESS MANAGEMENT -->
+            <section class="content-7 v-center">
+                <div>
+
+                    <div class="container">
+                        <h3>LEAD GENERATION SECTION</h3>
+
+                        <div class="row v-center">
+                            <div class="col-sm-3">
+                                <div>
+                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
+                                    support.
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="col-sm-offset-1">
+                                    <div class="screen-wrapper">
+                                        <div class="screen">
+                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
+                                            <img src="../../common-files/img/content/screen.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="col-sm-offset-2">
+                                    <h6>Responsive Layout</h6>
+                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
+                                    <h6>Retina Ready</h6>
+                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
+                                </div>
                             </div>
                         </div>
-                    </form>
+                    </div>
                 </div>
-            </div>
-        </div>
-    </section>
+            </section>
+            <!-- END BUSI MGMNT SECTION -->
+            
+            
+            
+              <!-- ************ ABOUT ME PARALLAX HERO******************-->
+            <section class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            
+                <div>
+                    <div class="container">
+                        <div class="hero-unit">
+                            <h1>ABOUT ME HERO</h1>
+                        
+                        </div>
+                        <span class="glyphicon glyphicon-chevron-down"></span>
+                    </div>
+                    
+                </div>
+               
+            </section>
+    	<!--*****************END************************-->
+            
+         
+          <!-- ABOUT ME- BIO -->
+            <section class="content-x v-center">
+                <div>
 
-    <footer class="text-center">
-        <div class="footer-above">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>Location</h3>
-                        <p>3481 Melrose Place
-                            <br>Beverly Hills, CA 90210</p>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>Around the Web</h3>
-                        <ul class="list-inline">
-                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-                            </li>
-                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                            </li>
-                            <li><a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>About Freelance</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="footer-below">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        Copyright &copy; 2014 - Your Name
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+                    <div class="container">
+                        <h3>BIO</h3>
 
-    <div class="scroll-top page-scroll visible-xs visble-sm">
-        <a class="btn btn-primary" href="#page-top">
-            <i class="fa fa-chevron-up"></i>
-        </a>
-    </div>
+                        <div class="row v-center">
+                            <div class="col-sm-3">
+                                <div>
+                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
+                                    support.
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="col-sm-offset-1">
+                                    <div class="screen-wrapper">
+                                        <div class="screen">
+                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
+                                            <img src="../../common-files/img/content/screen.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="col-sm-offset-2">
+                                    <h6>Responsive Layout</h6>
+                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
+                                    <h6>Retina Ready</h6>
+                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- END BIO SECTION -->
+            
+            
+            
+            
+            <!-- ABOUT ME- STRENGTHS/WEAKNESS -->
+            <section class="content-8 v-center">
+                <div>
 
-    <!-- Portfolio Modals -->
-    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
-                                </li>
-                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
-                                </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    <div class="container">
+                        <h3>STRENGTHS & WEAKNESS SECTION</h3>
+
+                        <div class="row v-center">
+                            <div class="col-sm-3">
+                                <div>
+                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
+                                    support.
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="col-sm-offset-1">
+                                    <div class="screen-wrapper">
+                                        <div class="screen">
+                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
+                                            <img src="../../common-files/img/content/screen.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="col-sm-offset-2">
+                                    <h6>Responsive Layout</h6>
+                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
+                                    <h6>Retina Ready</h6>
+                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
-                                </li>
-                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
-                                </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </section>
+            <!-- END STRENGTH/WEAKNESS SECTION -->
+            
+            
+            <!-- ABOUT ME- INTERESTS -->
+            <section class="content-9 v-center">
+                <div>
+
+                    <div class="container">
+                        <h3>MY INTEREST SECTION</h3>
+
+                        <div class="row v-center">
+                            <div class="col-sm-3">
+                                <div>
+                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
+                                    support.
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="col-sm-offset-1">
+                                    <div class="screen-wrapper">
+                                        <div class="screen">
+                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
+                                            <img src="../../common-files/img/content/screen.png" alt="">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="col-sm-offset-2">
+                                    <h6>Responsive Layout</h6>
+                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
+                                    <h6>Retina Ready</h6>
+                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
+            </section>
+            <!-- END INTERESTS-->  
+            
+            
+              <!-- ************ WORK WITH ME HERO******************-->
+            <section class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            
+                <div>
+                    <div class="container">
+                        <div class="hero-unit">
+                            <h1>WORK WITH ME HERO</h1>
+                        
+                        </div>
+                        <span class="glyphicon glyphicon-chevron-down"></span>
                     </div>
+                    
                 </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
-                                </li>
-                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
-                                </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+               
+            </section>
+    	<!--*****************END************************-->
+            
+             
+            
+
+            <!-- content-11  -->
+            <section class="content-11">
+                <div class="container">
+                    <span>Come on, you know you want to!</span>
+                    <a class="btn btn-large btn-danger" href="#">Work with me now</a>
+                </div>
+            </section>
+
+            <!-- footer-3 -->
+            <footer class="footer-3">
+                <div class="container">
+                    <div class="row v-center">
+                        <div class="col-sm-4">
+                            <a class="brand" href="#">KevWashington</a>
+                        </div>
+                        <div class="col-sm-4">
+                          <p>email me:</p> <h6>wassup@kevwashington.me</h6>
+                        </div>
+                        <div class="col-sm-4">
+                            <p>Send me mail</p>
+                            <h6>
+                                303 West Lancaster Ave #142<br>Wayne, Pa</h6>
+                            </div>
+                            
+                            
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
-                                </li>
-                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
-                                </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
-                                </li>
-                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
-                                </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client: <strong><a href="http://startbootstrap.com">Start Bootstrap</a></strong>
-                                </li>
-                                <li>Date: <strong><a href="http://startbootstrap.com">April 2014</a></strong>
-                                </li>
-                                <li>Service: <strong><a href="http://startbootstrap.com">Web Development</a></strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+            </footer>
+
+
+
+
+
+<!-- END PARALLAX CHANGES HTML-->
+
+
 
     <script src="/js/jquery-1.10.2.js"></script>
     <script src="/js/bootstrap.min.js"></script>
@@ -462,6 +514,22 @@
     <script src="/js/classie.js"></script>
     <script src="/js/cbpAnimatedHeader.js"></script>
     <script src="/js/freelancer.js"></script>
+    
+    
+    
+<!-- PARALLAX JAVASCRIPT -->
+
+	 	
+        <script src="/js/modernizr.custom.js"></script>
+        <script src="/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+        <script src="/js/jquery.parallax.min.js"></script>
+        <script src="/js/startup-kit.js"></script>
+       <script src="js/jquery.backgroundvideo.min.js"></script>
+        <script src="js/script.js"></script>
+
+
+
+<!-- END PARALLAX JAVASCRIPT -->
 
 </body>
 
