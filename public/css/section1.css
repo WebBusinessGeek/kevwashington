@@ -1,6 +1,12 @@
+.navbar-default {
+
+background: white;
+
+
+}
 #home {
 	
-	background-image:url('http://placehold.it/2000x1200/2c3e50/2c3e50');
+	background-image:url('http://placehold.it/2000x1200/464e54/464e54');
 	
 
 
@@ -17,6 +23,8 @@
 	color: white;
 	
 }
+
+
 
 #home .hero3{
 	color: white;

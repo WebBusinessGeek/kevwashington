@@ -9,20 +9,54 @@
 #skills h1, h2, h3, h4, h5, h6 {
 
 	text-transform: none;
-
-
-
-
+	font-family: 'verdana';
 
 }
 
 
+
+
+/*headers for skills sections */
+.section2-heading h2{
+	
+	font-family: helvetica;
+	
+}
+
+.section2-heading-dark h2{
+	
+	font-family: helvetica;
+	color: white;
+	
+}
+
+/*lead text for skills sections */
+.section2-subheading .lead{
+	
+	font-size: 26px;
+	text-transform: none;
+	color: #2c3e50;
+
+}
+
+
+.section2-subheading-dark .lead{
+	
+	font-size: 26px;
+	text-transform: none;
+	color: #fff;
+
+}
+
+
+/*********Backgrounds for skills sections*****************/
 
 #leadGen{
 	/*background: #00488d;*/
 	background: #fff;
 
 }
+
 
 #custAcq{
 	background: #138bff;
@@ -39,3 +73,5 @@
 	background: #fff;
 
 }
+
+/*********Backgrounds for skills sections*****************/

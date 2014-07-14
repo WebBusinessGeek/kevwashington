@@ -120,7 +120,7 @@
                         	<div class="col-md-4 text-center">
                         		<div class="page-scroll">
                         			<a href="#skills">
-                        				<img src="http://placehold.it/175x175/138bff">
+                        				<img src="http://placehold.it/200x200/138bff/ffffff">
                         				<br/><h4 class="hero2">My Skills</h4>
                         			</a>
                         		</div>
@@ -131,7 +131,7 @@
                         	<div class="col-md-4 text-center">
                         		<div class="page-scroll">
                         			<a href="#about">
-                        				<img  src="http://placehold.it/175x175/00ffe4">
+                        				<img  src="http://placehold.it/200x200/00ffe4/ffffff">
                         				<br/><h4 class="hero3">More About Me</h4>
                         			</a>	
                         		</div>
@@ -142,7 +142,7 @@
                         	<div class="col-md-4 text-center">
                         		<div class="page-scroll">
                         			<a href="#work">
-										<img src="http://placehold.it/175x175/F7563D">
+										<img src="http://placehold.it/200x200/F7563D/ffffff">
 										<br/><h4 class="hero4">Work with me?</h4>
 									</a>
 								</div>
@@ -235,35 +235,33 @@
                 <div>
 
                     <div class="container">
-                        <h3>LEAD GENERATION SECTION</h3>
-
-                        <div class="row v-center">
-                            <div class="col-sm-3">
-                                <div>
-                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
-                                    support.
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="col-sm-offset-1">
-                                    <div class="screen-wrapper">
-                                        <div class="screen">
-                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
-                                            <img src="../../common-files/img/content/screen.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="col-sm-offset-2">
-                                    <h6>Responsive Layout</h6>
-                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
-                                    <h6>Retina Ready</h6>
-                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
-                                </div>
-                            </div>
+                    
+                    	<!--header-->
+                    	<div class="row">
+                    		<div class="col-lg-12 text-center section2-heading">
+                        		<h2>I Generate Leads.</h2>
+                        	</div>
                         </div>
+                        <!--subheader-->
+                        <div class="row">
+                        	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
+                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		</p></h1>
+                        	</div>
+                        </div>
+                        	
+						<!--cta's-->
+                        <div class="row">
+                        	<div class="col-md-4 col-md-offset-2 text-center section2-cta">
+                        		<a href="#work" class="btn btn-danger">Let's get leads together!</a>
+                        	</div>
+                        	<div class="col-md-4 text-center section2-cta">
+                        		<a href="http://webbusinessgeek.com/#section2" class="btn btn-success">Learn how to generate leads</a>
+                        	</div>
+                         </div>
+                    
                     </div>
+                    
                 </div>
             </section>
             <!-- END LEAD GEN SECTION -->
@@ -276,35 +274,33 @@
                 <div>
 
                     <div class="container">
-                        <h3>CUSTOMER ACQUISITION SECTION</h3>
-
-                        <div class="row v-center">
-                            <div class="col-sm-3">
-                                <div>
-                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
-                                    support.
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="col-sm-offset-1">
-                                    <div class="screen-wrapper">
-                                        <div class="screen">
-                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
-                                            <img src="../../common-files/img/content/screen.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="col-sm-offset-2">
-                                    <h6>Responsive Layout</h6>
-                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
-                                    <h6>Retina Ready</h6>
-                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
-                                </div>
-                            </div>
+                    
+                    	<!--header-->
+                    	<div class="row">
+                    		<div class="col-lg-12 text-center section2-heading">
+                        		<h2>I Convert Them Too.</h2>
+                        	</div>
                         </div>
+                        <!--subheader-->
+                        <div class="row">
+                        	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
+                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		</p></h1>
+                        	</div>
+                        </div>
+                        	
+						<!--cta's-->
+                        <div class="row">
+                        	<div class="col-md-4 col-md-offset-2 text-center section2-cta">
+                        		<a href="#work" class="btn btn-danger">Let's increase sales!</a>
+                        	</div>
+                        	<div class="col-md-4 text-center section2-cta">
+                        		<a href="http://webbusinessgeek.com/#section3" class="btn btn-success">Learn customer acquisition</a>
+                        	</div>
+                         </div>
+                    
                     </div>
+                    
                 </div>
             </section>
             <!-- END CUST ACQ SECTION -->
@@ -315,35 +311,33 @@
                 <div>
 
                     <div class="container">
-                        <h3>PRODUCT DEVELOPMENT SECTION</h3>
-
-                        <div class="row v-center">
-                            <div class="col-sm-3">
-                                <div>
-                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
-                                    support.
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="col-sm-offset-1">
-                                    <div class="screen-wrapper">
-                                        <div class="screen">
-                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
-                                            <img src="../../common-files/img/content/screen.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="col-sm-offset-2">
-                                    <h6>Responsive Layout</h6>
-                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
-                                    <h6>Retina Ready</h6>
-                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
-                                </div>
-                            </div>
+                    
+                    	<!--header-->
+                    	<div class="row">
+                    		<div class="col-lg-12 text-center section2-heading-dark">
+                        		<h2>I Also Like To Build Things.</h2>
+                        	</div>
                         </div>
+                        <!--subheader-->
+                        <div class="row">
+                        	<div class="col-md-8 col-md-offset-2 text-center section2-subheading-dark">
+                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		</p></h1>
+                        	</div>
+                        </div>
+                        	
+						<!--cta's-->
+                        <div class="row">
+                        	<div class="col-md-4 col-md-offset-2 text-center section2-cta">
+                        		<a href="#work" class="btn btn-danger">Build something with me!</a>
+                        	</div>
+                        	<div class="col-md-4 text-center section2-cta">
+                        		<a href="http://webbusinessgeek.com/#section4" class="btn btn-success">Learn product development</a>
+                        	</div>
+                         </div>
+                    
                     </div>
+                    
                 </div>
             </section>
             <!-- END PROD DEV SECTION -->
@@ -353,39 +347,37 @@
             
             
             <!-- SKILLS- BUSINESS MANAGEMENT -->
-            <section id="busiMgmt" class="content-7 v-center">
-                <div>
+            <section id="busiMgmt" class="content-10 v-center">
+                 <div>
 
                     <div class="container">
-                        <h3>Business Management SECTION</h3>
-
-                        <div class="row v-center">
-                            <div class="col-sm-3">
-                                <div>
-                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
-                                    support.
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="col-sm-offset-1">
-                                    <div class="screen-wrapper">
-                                        <div class="screen">
-                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
-                                            <img src="../../common-files/img/content/screen.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="col-sm-offset-2">
-                                    <h6>Responsive Layout</h6>
-                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
-                                    <h6>Retina Ready</h6>
-                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
-                                </div>
-                            </div>
+                    
+                    	<!--header-->
+                    	<div class="row">
+                    		<div class="col-lg-12 text-center section2-heading">
+                        		<h2>Lastly, I Enjoy Business.</h2>
+                        	</div>
                         </div>
+                        <!--subheader-->
+                        <div class="row">
+                        	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
+                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		</p></h1>
+                        	</div>
+                        </div>
+                        	
+						<!--cta's-->
+                        <div class="row">
+                        	<div class="col-md-4 col-md-offset-2 text-center section2-cta">
+                        		<a href="#work" class="btn btn-danger">Let's talk about your business</a>
+                        	</div>
+                        	<div class="col-md-4 text-center section2-cta">
+                        		<a href="http://webbusinessgeek.com/#section5" class="btn btn-success">Learn business management</a>
+                        	</div>
+                         </div>
+                    
                     </div>
+                    
                 </div>
             </section>
             <!-- END BUSI MGMNT SECTION -->
