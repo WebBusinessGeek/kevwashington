@@ -1,0 +1,41 @@
+#skills {
+
+	background-image:url('http://placehold.it/2000x1200/138bff');
+
+
+}
+
+
+#skills h1, h2, h3, h4, h5, h6 {
+
+	text-transform: none;
+
+
+
+
+
+}
+
+
+
+#leadGen{
+	/*background: #00488d;*/
+	background: #fff;
+
+}
+
+#custAcq{
+	background: #138bff;
+	
+
+}
+
+#prodDev{
+	background: #00488d;
+
+}
+
+#busiMgmt{
+	background: #fff;
+
+}

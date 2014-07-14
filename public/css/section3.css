@@ -1,0 +1,39 @@
+#about {
+
+	background-image:url('http://placehold.it/2000x1200/00ffe4');
+
+
+}
+
+
+#about h1, h2, h3, h4, h5, h6 {
+
+	text-transform: none;
+
+
+
+
+
+}
+
+
+
+#bio{
+	/*background: #008778;*/
+	background: #fff;
+
+}
+
+
+#strweak{
+	
+	background: #00685d;
+	
+
+}
+
+
+#intr{
+	background: #fff;
+
+}

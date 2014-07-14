@@ -1,0 +1,46 @@
+#home {
+	
+	background-image:url('http://placehold.it/2000x1200/2c3e50/2c3e50');
+	
+
+
+}
+
+#home h1, h2, h3, h4, h5, h6 {
+
+	font-family: 'verdana';
+	text-transform: none;
+	color: white;
+	} 
+
+#home .hero2{
+	color: white;
+	
+}
+
+#home .hero3{
+	color: white;
+	
+}
+
+#home .hero4{
+	color: white;
+	
+}
+
+
+#homeTeaser {
+
+	color: red;
+	font-family: helvetica;
+	
+	
+	
+}
+
+#homeTeaser h1, h2, h3, h4, h5, h6 {
+
+	font-family: 'verdana';
+	text-transform: none;
+	color: #2c3e50;
+	}

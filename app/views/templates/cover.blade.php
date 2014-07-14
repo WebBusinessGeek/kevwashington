@@ -33,7 +33,12 @@
     <link rel="stylesheet" href="/css/icon-font.css">
 	<link rel="stylesheet" href="/css/content-sections.css">
 	<link rel="stylesheet" href="/css/style.css">
-	<!--<link rel="stylesheet" href="/css/navbar-collapse.css">-->
+	
+	<!-- section css -->
+	<link rel="stylesheet" href="/css/section1.css">
+	<link rel="stylesheet" href="/css/section2.css">
+	<link rel="stylesheet" href="/css/section3.css">
+	<link rel="stylesheet" href="/css/section4.css">
 
 
     
@@ -86,97 +91,131 @@
         <!-- /.container-fluid -->
     </nav>
 
+	<!-- END NAVIGATION -->
+	
+	
+	
   
     
     
-    
+    <!-- SECTION 1 -->
 
     
     
     	<!-- ******************HOME SECTION HERO********************-->
-            <section id="home" class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            <section id="home" class="content-23 v-center bg-midnight-blue custom-bg">
             
-                <div>
+                
                     <div class="container">
                     	<div class="row">
-                    		 <div class="col-lg-12 text-center" >
-                            <h1>Heading</h1>
+                    		<div class="col-lg-12 text-center" >
+                            	<h1></h1>	
                         	</div>
                         </div>
                         <br/><br/>
-                        <hr/>
+                       
                         
                         
                         <div class="row">
                         	<div class="col-md-4 text-center">
-                        		<img class="img-thumbnail" src="http://placehold.it/175x175">
-                        		<br/><button class="btn btn-success page-scroll"><a href="#skills">My Skills</a></button>
+                        		<div class="page-scroll">
+                        			<a href="#skills">
+                        				<img src="http://placehold.it/175x175/138bff">
+                        				<br/><h4 class="hero2">My Skills</h4>
+                        			</a>
+                        		</div>
                         	</div>
                      
                         
                          
                         	<div class="col-md-4 text-center">
-                        		<img class="img-thumbnail" src="http://placehold.it/175x175">
-                        		<br/><button class="btn btn-success page-scroll"><a href="#about">More About Me</a></button>
+                        		<div class="page-scroll">
+                        			<a href="#about">
+                        				<img  src="http://placehold.it/175x175/00ffe4">
+                        				<br/><h4 class="hero3">More About Me</h4>
+                        			</a>	
+                        		</div>
                         	</div>
                         
                         
                         
                         	<div class="col-md-4 text-center">
-                        		<img class="img-thumbnail" src="http://placehold.it/175x175">
-                        		<br/><button class="btn btn-success page-scroll"><a href="#work">Work with me?</a></button>
+                        		<div class="page-scroll">
+                        			<a href="#work">
+										<img src="http://placehold.it/175x175/F7563D">
+										<br/><h4 class="hero4">Work with me?</h4>
+									</a>
+								</div>
                         	</div>
                        
                         
                         
                         <div class="row">
-                        	<div class="col-md-12 text-center">
+                        	<div class="col-md-12 text-center"><br/><br/><br/><br/><br/>
                         		<span class="glyphicon glyphicon-chevron-down"></span>
                         	</div>
                         </div>
                     </div>
                     
-                </div>
+                
                
             </section>
     	<!--***************END***********************-->
     
     
-    
-    
-    
-    <section class="header-10-sub v-center bg-midnight-blue">
-                <div class="background">
+    <section id="homeTeaser" class="header-10-sub v-center">
+                <!--<div class="background">
                     &nbsp;
-                </div>
-                <div>
+                </div>-->
+                
                     <div class="container">
-                        <div class="hero-unit">
-                            <h1>Section to break up the parallax images</h1>
-                            <p>
-                                Maybe some teaser content here?
-                                <br/>
-                                Or something that builds value immediately
-                            </p>
+                      
+                    	<div class="row">
+                       		<div class="col-lg-12 text-center">
+                       			<h1>Random proverbs for your business.</h1>
+                       		</div>
+    					</div>
+                       
+                        <br/><br/><br/>
+                        <div class="row">
+                        
+                        	<div class="col-md-4">
+                				<h5>All hard work brings a profit, but mere talk leads only to poverty</h5>
+								<p><br/>-proverbs 14:23</p>
+                            </div>
+                            
+                            <div class="col-md-4">
+                            	<h5>Plans fail for lack of counsel, but with many advisers they succeed.</h5>
+								<p><br/>-proverbs 15:22</p>
+                            </div>
+                            
+                            <div class="col-md-4">
+                            	<h5>Desire without knowledge is not good.... hasty feet miss the way!</h5>
+								<p><br/>-proverbs 19:2</p>
+                            </div>
                         </div>
-                    </div>
-                </div>
-                <a class="control-btn fui-arrow-down" href="#"> </a>
+                    
+                	</div>
+                
+                
             </section>
             
+    <!-- END SECTION 1 -->
             
             
             
             
             
+            
+    <!-- SECTION 2 -->
             
             <!-- ***********************SKILLS PARALLAX HERO************************-->
-            <section id="skills" class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            <section id="skills" class="content-23 v-center bg-midnight-blue custom-bg">
             
                 <div>
                     <div class="container">
                         <div class="hero-unit">
-                            <h1>SKILLS HERO</h1>
+                            <h1>My Skills</h1>
                         
                         </div>
                         <span class="glyphicon glyphicon-chevron-down"></span>
@@ -192,7 +231,7 @@
 
 
             <!-- SKILLS- LEAD GENERATION -->
-            <section class="content-x v-center">
+            <section id="leadGen" class="content-x v-center">
                 <div>
 
                     <div class="container">
@@ -233,7 +272,7 @@
             
             
             <!-- SKILLS- CUSTOMER ACQUISITION -->
-            <section class="content-8 v-center">
+            <section id="custAcq" class="content-8 v-center">
                 <div>
 
                     <div class="container">
@@ -272,7 +311,7 @@
             
             
             <!-- SKILLS- PRODUCT DEVELOPMENT -->
-            <section class="content-9 v-center">
+            <section id="prodDev" class="content-9 v-center">
                 <div>
 
                     <div class="container">
@@ -314,11 +353,11 @@
             
             
             <!-- SKILLS- BUSINESS MANAGEMENT -->
-            <section class="content-7 v-center">
+            <section id="busiMgmt" class="content-7 v-center">
                 <div>
 
                     <div class="container">
-                        <h3>LEAD GENERATION SECTION</h3>
+                        <h3>Business Management SECTION</h3>
 
                         <div class="row v-center">
                             <div class="col-sm-3">
@@ -353,8 +392,18 @@
             
             
             
+            
+            
+    <!--END SECTION 2 -->
+    
+    
+    
+    
+    <!--SECTION 3 -->
+            
+            
               <!-- ************ ABOUT ME PARALLAX HERO******************-->
-            <section id="about" class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            <section id="about" class="content-23 v-center bg-midnight-blue custom-bg" >
             
                 <div>
                     <div class="container">
@@ -372,7 +421,7 @@
             
          
           <!-- ABOUT ME- BIO -->
-            <section class="content-x v-center">
+            <section id="bio" class="content-x v-center">
                 <div>
 
                     <div class="container">
@@ -413,7 +462,7 @@
             
             
             <!-- ABOUT ME- STRENGTHS/WEAKNESS -->
-            <section class="content-8 v-center">
+            <section id="strweak" class="content-8 v-center">
                 <div>
 
                     <div class="container">
@@ -452,7 +501,7 @@
             
             
             <!-- ABOUT ME- INTERESTS -->
-            <section class="content-9 v-center">
+            <section id="intr" class="content-9 v-center">
                 <div>
 
                     <div class="container">
@@ -490,8 +539,18 @@
             <!-- END INTERESTS-->  
             
             
+            
+    <!-- END SECTION 3 -->
+    
+    
+    
+    
+    
+    
+    <!-- SECTION 4 -->
+            
               <!-- ************ WORK WITH ME HERO******************-->
-            <section id="work" class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            <section id="work" class="content-23 v-center bg-midnight-blue custom-bg">
             
                 <div>
                     <div class="container">
@@ -512,12 +571,25 @@
             
 
             <!-- content-11  -->
-            <section class="content-11">
+            <section id="cta" class="content-11">
                 <div class="container">
                     <span>Come on, you know you want to!</span>
                     <a class="btn btn-large btn-danger" href="#">Work with me now</a>
                 </div>
             </section>
+            
+            
+            
+            
+            
+            
+    <!-- END SECTION 4 -->
+    
+    
+    
+    
+    
+    
 
             <!-- footer-3 -->
             <footer class="footer-3">
@@ -549,14 +621,16 @@
 
 
 
+
+
+
+
     <script src="/js/jquery-1.10.2.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
     <script src="/js/classie.js"></script>
     <script src="/js/cbpAnimatedHeader.js"></script>
     <script src="/js/freelancer.js"></script>
-    
-    
     
 <!-- PARALLAX JAVASCRIPT -->
 
