@@ -595,8 +595,8 @@ button:active {
   -moz-border-radius: 0;
   border-radius: 0;
 }
-.navbar .navbar-toggle:before {
-  display: none;
+/*.navbar .navbar-toggle:before {
+  display: none;*/
 }
 .navbar .navbar-form .btn {
   height: auto;
@@ -1531,3 +1531,8 @@ section * {
   background-color: #1B1F23;
   color: #7F8C8D;
 }
+
+
+
+
+ 

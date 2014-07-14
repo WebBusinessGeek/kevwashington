@@ -9,7 +9,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Freelancer - A Free Start Bootstrap Theme</title>
+    <title>KevWashington- Product Leader</title>
+
+
+
+
 
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -18,16 +22,18 @@
     <link href="/css/freelancer.css" rel="stylesheet" type="text/css">
 
     <!-- Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
     
     
     
     
     <link rel="stylesheet" href="/css/flat-ui.css">
-    <link rel="stylesheet" href="/css/style.css">
+    
     <link rel="stylesheet" href="/css/icon-font.css">
 	<link rel="stylesheet" href="/css/content-sections.css">
+	<link rel="stylesheet" href="/css/style.css">
+	<!--<link rel="stylesheet" href="/css/navbar-collapse.css">-->
 
 
     
@@ -48,30 +54,30 @@
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
+            	<a class="navbar-brand" href="#home">KevWashington</a>
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">KevWashington</a>
+                
             </div>
 
 
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
+                    <li class="page-scroll">
+                       <a href="#home"><span class="glyphicon glyphicon-home"></span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#portfolio">My Skills</a>
+                        <a href="#skills">My Skills</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#about">More About Me</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#contact">Work With Me?</a>
+                        <a href="#work">Work With Me?</a>
                     </li>
                 </ul>
             </div>
@@ -84,28 +90,58 @@
     
     
     
+
     
     
-    
-    <!-- PARALLAX CHANGES -->
-    
-    
-    	<!-- PARALLAX HERO-->
-            <section class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+    	<!-- ******************HOME SECTION HERO********************-->
+            <section id="home" class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
             
                 <div>
                     <div class="container">
-                        <div class="hero-unit">
-                            <h1>MAIN HERO</h1>
-                        
+                    	<div class="row">
+                    		 <div class="col-lg-12 text-center" >
+                            <h1>Heading</h1>
+                        	</div>
                         </div>
-                        <span class="glyphicon glyphicon-chevron-down"></span>
+                        <br/><br/>
+                        <hr/>
+                        
+                        
+                        <div class="row">
+                        	<div class="col-md-4 text-center">
+                        		<img class="img-thumbnail" src="http://placehold.it/175x175">
+                        		<br/><button class="btn btn-success page-scroll"><a href="#skills">My Skills</a></button>
+                        	</div>
+                     
+                        
+                         
+                        	<div class="col-md-4 text-center">
+                        		<img class="img-thumbnail" src="http://placehold.it/175x175">
+                        		<br/><button class="btn btn-success page-scroll"><a href="#about">More About Me</a></button>
+                        	</div>
+                        
+                        
+                        
+                        	<div class="col-md-4 text-center">
+                        		<img class="img-thumbnail" src="http://placehold.it/175x175">
+                        		<br/><button class="btn btn-success page-scroll"><a href="#work">Work with me?</a></button>
+                        	</div>
+                       
+                        
+                        
+                        <div class="row">
+                        	<div class="col-md-12 text-center">
+                        		<span class="glyphicon glyphicon-chevron-down"></span>
+                        	</div>
+                        </div>
                     </div>
                     
                 </div>
                
             </section>
-    	<!--END-->
+    	<!--***************END***********************-->
+    
+    
     
     
     
@@ -130,8 +166,12 @@
             
             
             
+            
+            
+            
+            
             <!-- ***********************SKILLS PARALLAX HERO************************-->
-            <section class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            <section id="skills" class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
             
                 <div>
                     <div class="container">
@@ -314,7 +354,7 @@
             
             
               <!-- ************ ABOUT ME PARALLAX HERO******************-->
-            <section class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            <section id="about" class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
             
                 <div>
                     <div class="container">
@@ -451,12 +491,13 @@
             
             
               <!-- ************ WORK WITH ME HERO******************-->
-            <section class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
+            <section id="work" class="content-23 v-center bg-midnight-blue custom-bg" style="background-image:url('http://placehold.it/2000x2000');">
             
                 <div>
                     <div class="container">
                         <div class="hero-unit">
                             <h1>WORK WITH ME HERO</h1>
+                            <h4>Contact form to learn more about them</h4>
                         
                         </div>
                         <span class="glyphicon glyphicon-chevron-down"></span>
@@ -521,7 +562,7 @@
 
 	 	
         <script src="/js/modernizr.custom.js"></script>
-        <script src="/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+       <script src="/js/jquery.scrollTo-1.4.3.1-min.js"></script>
         <script src="/js/jquery.parallax.min.js"></script>
         <script src="/js/startup-kit.js"></script>
        <script src="js/jquery.backgroundvideo.min.js"></script>
