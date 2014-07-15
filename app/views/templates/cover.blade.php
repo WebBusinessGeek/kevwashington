@@ -430,49 +430,160 @@
 						<!-- Row one -->
 							<div class="row">
 							
+								<!--section 1-->
 								<div class="col-md-3 text-center">
 									<h4 class="section3-smallheading">Sales</h4>
-									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+									
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-danger btn-lg" data-toggle="collapse" data-target="#collapseDiv">
+										<i class="glyphicon glyphicon1 glyphicon-large glyphicon-folder-close"></i>
+										See Sales Experience
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv">
+										<h4><p class="lead section3-subheading">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. </p></h4>
+									</div>
+									
 								</div>
 							
+						
+      							<!--section 2-->
 								<div class="col-md-3 text-center">
 									<h4 class="section3-smallheading">Strategy</h4>
-									<h4><p class="lead section3-subheading">This is the content under</p></h4>
-								</div>
-							
-								<div class="col-md-3 text-center">
-									<h4 class="section3-smallheading">Design</h4>
-									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+									
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-primary btn-lg" data-toggle="collapse" data-target="#collapseDiv2">
+										<i class="glyphicon glyphicon2 glyphicon-large glyphicon-folder-close"></i>
+										See Strategy Experience
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv2">
+										<h4><p class="lead section3-subheading">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. </p></h4>
+									</div>
+									
 								</div>
 								
+								
+								
+								<!--section 3-->
 								<div class="col-md-3 text-center">
-									<h4 class="section3-smallheading">Coding</h4>
-									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+									<h4 class="section3-smallheading">Conversion Design</h4>
+									
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-danger btn-lg" data-toggle="collapse" data-target="#collapseDiv3">
+										<i class="glyphicon glyphicon3 glyphicon-large glyphicon-folder-close"></i>
+										See Design Experience
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv3">
+										<h4><p class="lead section3-subheading">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. </p></h4>
+									</div>
+									
 								</div>
 							
-							</div>
+								
+								
+								
+								<!--section 4-->
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Coding</h4>
+									
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-primary btn-lg" data-toggle="collapse" data-target="#collapseDiv4">
+										<i class="glyphicon glyphicon4 glyphicon-large glyphicon-folder-close"></i>
+										See Coding Experience
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv4">
+										<h4><p class="lead section3-subheading">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. </p></h4>
+									</div>
+									
+								</div>
+								
+								
+								
+							
+							</div><br/><br/><hr/ style="color:black;">
 						
 						<!-- Row two -->
 							<div class="row">
 							
+								<!-- section 5 -->
 								<div class="col-md-3 text-center">
 									<h4 class="section3-smallheading">Lead Generation</h4>
-									<h4><p class="lead section3-subheading">This is the content under</p></h4>
-								</div>
-							
-								<div class="col-md-3 text-center">
-									<h4 class="section3-smallheading">Team Management</h4>
-									<h4><p class="lead section3-subheading">This is the content under</p></h4>
-								</div>
-							
-								<div class="col-md-3 text-center">
-									<h4 class="section3-smallheading">Financial Planning</h4>
-									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+									
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-danger btn-lg" data-toggle="collapse" data-target="#collapseDiv5">
+										<i class="glyphicon glyphicon5 glyphicon-large glyphicon-folder-close"></i>
+										See Lead Gen Exp.
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv5">
+										<h4><p class="lead section3-subheading">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. </p></h4>
+									</div>
+									
 								</div>
 								
+								
+								
+								<!-- section 6 -->
 								<div class="col-md-3 text-center">
-									<h4 class="section3-smallheading">Process</h4>
-									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+									<h4 class="section3-smallheading">Team Management</h4>
+									
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-primary btn-lg" data-toggle="collapse" data-target="#collapseDiv6">
+										<i class="glyphicon glyphicon6 glyphicon-large glyphicon-folder-close"></i>
+										See Team Mgmnt Exp.
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv6">
+										<h4><p class="lead section3-subheading">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. </p></h4>
+									</div>
+									
+								</div>
+								
+							
+								
+								<!-- section 7 -->
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Financial Management</h4>
+									
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-danger btn-lg" data-toggle="collapse" data-target="#collapseDiv7">
+										<i class="glyphicon glyphicon7 glyphicon-large glyphicon-folder-close"></i>
+										See Financial Mgmnt Exp.
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv7">
+										<h4><p class="lead section3-subheading">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. </p></h4>
+									</div>
+									
+								</div>
+								
+								
+								
+								<!-- section 8 -->
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Creative</h4>
+									
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-primary btn-lg" data-toggle="collapse" data-target="#collapseDiv8">
+										<i class="glyphicon glyphicon8 glyphicon-large glyphicon-folder-close"></i>
+										See Creative Experience
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv8">
+										<h4><p class="lead section3-subheading">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. </p></h4>
+									</div>
+									
 								</div>
 							
 							</div>
@@ -699,6 +810,7 @@
         <script src="/js/startup-kit.js"></script>
        <script src="js/jquery.backgroundvideo.min.js"></script>
         <script src="js/script.js"></script>
+        <script src="js/collapsed.js"></script>
 
 
 
