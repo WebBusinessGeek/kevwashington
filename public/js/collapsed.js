@@ -98,6 +98,17 @@
     });
     
     
+     /*Section 9*/
+	 
+    $('#collapseDiv9').on('shown.bs.collapse', function () {
+       $(".glyphicon9").removeClass("glyphicon-folder-close").addClass("glyphicon-folder-open");
+    });
+
+    $('#collapseDiv9').on('hidden.bs.collapse', function () {
+       $(".glyphicon9").removeClass("glyphicon-folder-open").addClass("glyphicon-folder-close");
+    });
+    
+    
     
     
    

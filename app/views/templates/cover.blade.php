@@ -723,15 +723,39 @@
             
                 <div>
                     <div class="container">
+                        
+                        
                         <div class="hero-unit">
                             <h1>WORK WITH ME HERO</h1>
                             <h4>Contact form to learn more about them</h4>
+                         </div>
                         
-                        </div>
-                        <span class="glyphicon glyphicon-chevron-down"></span>
-                    </div>
+                    <div class="row">
                     
-                </div>
+                    	<div class="col-md-3 text-center">
+								
+									<!-- Button for collapse toggle -->
+									<button class="btn btn-primary btn-lg" data-toggle="collapse" data-target="#collapseDiv9">
+										<i class="glyphicon glyphicon9 glyphicon-large glyphicon-folder-close"></i>
+										Work with me
+									</button>
+									
+									<!-- Content being collapsed -->
+									<div class="collapse" id="collapseDiv9">
+										
+										<!--Form -->
+										
+										
+									</div><!--/.collapse-->
+										
+						</div><!--/.col-->
+									
+					</div><!--/.row-->
+                    
+                    
+                    	
+                    </div><!--/.container-->
+                 </div>
                
             </section>
     	<!--*****************END************************-->
