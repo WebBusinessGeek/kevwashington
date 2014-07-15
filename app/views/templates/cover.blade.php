@@ -568,7 +568,7 @@
                         <!--cta -->
                          <div class="row">
                         	<div class="col-md-6 col-md-offset-3 text-center">
-                        		<h2><p class="lead section3-subheading">Would I make a good match for your business?</p></h2>
+                        		<h2><p class="lead section3-subheading">Would I be a good match for your business?</p></h2>
                         	</div>
                         </div>
                         
