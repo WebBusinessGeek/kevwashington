@@ -412,120 +412,186 @@
     	<!--*****************END************************-->
             
          
-          <!-- ABOUT ME- BIO -->
-            <section id="bio" class="content-x v-center">
+          <!-- ABOUT ME- Experiences -->
+            <section id="exp" class="content-12 v-center">
                 <div>
 
                     <div class="container">
-                        <h3>BIO</h3>
+                    
+                    <!--heading-->
+                    	<div class="row">
+                    		<div class="col-lg-12 text-center">
+                        		<h2 class="section3-heading">My Experiences.</h2>
+                        	</div>
+						</div><br/><br/><br/>
+						
+					<!--section content-->
+					
+						<!-- Row one -->
+							<div class="row">
+							
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Sales</h4>
+									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+								</div>
+							
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Strategy</h4>
+									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+								</div>
+							
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Design</h4>
+									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+								</div>
+								
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Coding</h4>
+									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+								</div>
+							
+							</div>
+						
+						<!-- Row two -->
+							<div class="row">
+							
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Lead Generation</h4>
+									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+								</div>
+							
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Team Management</h4>
+									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+								</div>
+							
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Financial Planning</h4>
+									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+								</div>
+								
+								<div class="col-md-3 text-center">
+									<h4 class="section3-smallheading">Process</h4>
+									<h4><p class="lead section3-subheading">This is the content under</p></h4>
+								</div>
+							
+							</div>
+						
+						
+					<!-- end section content -->
 
-                        <div class="row v-center">
-                            <div class="col-sm-3">
-                                <div>
-                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
-                                    support.
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="col-sm-offset-1">
-                                    <div class="screen-wrapper">
-                                        <div class="screen">
-                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
-                                            <img src="../../common-files/img/content/screen.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="col-sm-offset-2">
-                                    <h6>Responsive Layout</h6>
-                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
-                                    <h6>Retina Ready</h6>
-                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
+            </section>
+            <!-- END Experiences SECTION -->
+            
+            
+            
+            
+            <!-- ABOUT ME- whoami -->
+            <section id="whoami" class="content-13 v-center">
+                <div>
+
+                    <div class="container">
+                    
+                       	<div class="row">
+                    		<div class="col-lg-12 text-center section3-heading">
+                        		<h2>Who Im Iz.</h2>
+                        	</div>
+                        </div>
+                        
+                        <!--subheader-->
+                        <div class="row">
+                        	<div class="col-md-8 col-md-offset-2 text-center section3-subheading">
+                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		</p></h1>
+                        	</div>
+                        </div>
+                        
+                    </div>
+                    
+                    
                 </div>
             </section>
-            <!-- END BIO SECTION -->
+            <!-- END whoami SECTION -->
             
             
-            
-            
-            <!-- ABOUT ME- STRENGTHS/WEAKNESS -->
-            <section id="strweak" class="content-8 v-center">
+            <!-- ABOUT ME- hobbies -->
+            <section id="hobbies" class="content-14 v-center">
                 <div>
 
                     <div class="container">
-                        <h3>STRENGTHS & WEAKNESS SECTION</h3>
-
-                        <div class="row v-center">
-                            <div class="col-sm-3">
-                                <div>
-                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
-                                    support.
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="col-sm-offset-1">
-                                    <div class="screen-wrapper">
-                                        <div class="screen">
-                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
-                                            <img src="../../common-files/img/content/screen.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="col-sm-offset-2">
-                                    <h6>Responsive Layout</h6>
-                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
-                                    <h6>Retina Ready</h6>
-                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
-                                </div>
-                            </div>
+                    
+                       	<div class="row">
+                    		<div class="col-lg-12 text-center section3-headingLight">
+                        		<h2>Things I like to do.</h2>
+                        	</div>
                         </div>
+                        
+                        <!--subheader-->
+                        <div class="row">
+                        	<div class="col-md-8 col-md-offset-2 text-center section3-subheadingLight">
+                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		</p></h1>
+                        	</div>
+                        </div>
+                        
                     </div>
+                    
+                    
                 </div>
             </section>
-            <!-- END STRENGTH/WEAKNESS SECTION -->
+            <!-- END hobbies SECTION -->
             
             
-            <!-- ABOUT ME- INTERESTS -->
-            <section id="intr" class="content-9 v-center">
+            <!-- ABOUT ME- WHAT IM LOOKING FOR -->
+            <section id="what" class="content-15 v-center">
                 <div>
-
-                    <div class="container">
-                        <h3>MY INTEREST SECTION</h3>
-
-                        <div class="row v-center">
-                            <div class="col-sm-3">
-                                <div>
-                                    Of course we haven’t forgotten about the responsive layout. Create a website with full mobile
-                                    support.
-                                </div>
-                            </div>
-                            <div class="col-sm-4">
-                                <div class="col-sm-offset-1">
-                                    <div class="screen-wrapper">
-                                        <div class="screen">
-                                            <img src="../../common-files/img/content/screen-popup.png" alt="">
-                                            <img src="../../common-files/img/content/screen.png" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-3">
-                                <div class="col-sm-offset-2">
-                                    <h6>Responsive Layout</h6>
-                                    Of course we haven’t forgotten about the responsive layout. Full mobile support.
-                                    <h6>Retina Ready</h6>
-                                    Startup Framework works fine on devices supporting Retina Display. Feel the clarity!
-                                </div>
-                            </div>
+						
+					<div class="container">
+                    
+                       	<div class="row">
+                    		<div class="col-lg-12 text-center section3-heading">
+                        		<h2>What Im Looking For.</h2>
+                        	</div>
+                        </div>
+                        
+                        <!--subheader-->
+                        <div class="row">
+                        	<div class="col-md-8 col-md-offset-2 text-center section3-subheading">
+                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		</p></h1>
+                        	</div>
+                        </div>
+                        
+                        
+                        <!--cta -->
+                         <div class="row">
+                        	<div class="col-md-6 col-md-offset-3 text-center">
+                        		<h2><p class="lead section3-subheading">Would I make a good match for your business?</p></h2>
+                        	</div>
+                        </div>
+                        
+                        <div class="row">
+                        	<div class="col-md-4 col-md-offset-4 text-center">
+                        		<a href="#work" class="btn btn-danger">Get In Touch With Me</a>
+                        	</div>
                         </div>
                     </div>
+                    
+                    
+                          
+                          
+                          
+                          				<!--*****Dont REMOVE!!!! -->
+                                        <div class="screen">
+                                           <!-- <img src="../../common-files/img/content/screen-popup.png" alt="">-->
+                                           <!-- <img src="../../common-files/img/content/screen.png" alt="">-->
+                                        </div>
+                                        <!--END-->
+                                   
+                            
+                      
                 </div>
             </section>
             <!-- END INTERESTS-->  

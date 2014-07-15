@@ -11,29 +11,78 @@
 	text-transform: none;
 
 
+}
+
+/*headers for about sections */
 
 
+
+
+.section3-heading h2, h3, h4{
+	
+	font-family: helvetica;
+	
+}
+
+.section3-headingLight h2 {
+	
+	color: #fff;
+
+}
+
+/*lead text for skills sections */
+.section3-subheading .lead{
+	
+	font-size: 26px;
+	text-transform: none;
+	color: #2c3e50;
+
+}
+
+
+.section3-subheadingLight .lead{
+	
+	font-size: 26px;
+	text-transform: none;
+	color: #fff;
 
 }
 
 
 
-#bio{
+
+
+
+
+
+
+
+
+/***********BACKGROUNDS FOR SECTION 3********************/
+
+#exp{
 	/*background: #008778;*/
 	background: #fff;
 
 }
 
 
-#strweak{
+#whoami{
 	
-	background: #00685d;
+	background: #00ffe4;
 	
 
 }
 
 
-#intr{
+#hobbies{
+	background: #00685d;
+
+}
+
+#what{
 	background: #fff;
 
 }
+
+/***********************END****************************/
