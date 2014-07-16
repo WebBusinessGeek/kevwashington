@@ -745,7 +745,23 @@
 										
 										<!--Form -->
 										<form role="form">
-											  
+										@if(Session::has('badMessage'))
+											<div class="alert alert-danger alert-dismissible" role="alert">
+												<button type="button" class="close" data-dismiss="alert">
+													<span aria-hidden="true">&times;</span>
+													<span class="sr-only">Close</span>
+												</button>
+												{{ Session::get('badMessage') }}
+											</div>
+										@elseif(Session::has('successMessage'))
+											<div class="alert alert-success alert-dismissible" role="alert">
+												<button type="button" class="close" data-dismiss="alert">
+													<span aria-hidden="true">&times;</span>
+													<span class="sr-only">Close</span>
+												</button>
+												{{ Session::get('successMessage') }}
+											</div>
+										@endif
 											  <!--Name -->
 											  <div class="form-group">
 												<label for="name">What's your name?</label>
