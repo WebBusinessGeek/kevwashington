@@ -727,16 +727,16 @@
                         
                         <div class="hero-unit">
                             <h1>WORK WITH ME HERO</h1>
-                            <h4>Contact form to learn more about them</h4>
+                            
                          </div>
                         
                     <div class="row">
                     
-                    	<div class="col-md-3 text-center">
+                    	<div class="col-md-6 col-md-offset-3 text-center">
 								
 									<!-- Button for collapse toggle -->
 									<button class="btn btn-primary btn-lg" data-toggle="collapse" data-target="#collapseDiv9">
-										<i class="glyphicon glyphicon9 glyphicon-large glyphicon-folder-close"></i>
+										<i class="glyphicon glyphicon9 glyphicon-large glyphicon-hand-right"></i>
 										Work with me
 									</button>
 									
@@ -744,7 +744,68 @@
 									<div class="collapse" id="collapseDiv9">
 										
 										<!--Form -->
-										
+										<form role="form">
+											  
+											  <!--Name -->
+											  <div class="form-group">
+												<label for="name">What's your name?</label>
+												<input type="text" class="form-control" id="name" placeholder="Sonic The Hedgehog">
+											  </div>
+											  
+											  <br/>
+											  
+											  <!--Email -->
+											  <div class="form-group">
+												<label for="email">Where do I reply?</label>
+												<input type="email" class="form-control" id="email" placeholder="Sonic@Sega.com">
+											  </div>
+											  
+											  <br/>
+											  
+											  <!--Website -->
+											  <div class="form-group">
+												<label for="website">Web address if you have one.</label>
+												<input type="email" class="form-control" id="website" placeholder="Sega.com">
+											  </div>
+											  
+											  <br/>
+											  
+											  <!-- Change to select box-->
+											  <div class="form-group">
+												<label for="need">Whatcha' need?</label>
+												<select class="form-control" name="need">
+												  <option>Generate some traffic to my site.</option>
+												  <option>Increase conversion % on my site.</option>
+												  <option>Let's build something together!</option>
+												  <option>Need to redesign my current site.</option>
+												  <option>Teach me or my staff marketing.</option>
+												  <option>Other- (click me and use the text field below.)</option>
+												</select>
+												
+											  </div>
+											  
+											 <br/>
+											 
+											 <!-- Change to textarea -->
+											  <div class="textarea">
+												<label for="extra">Give me some more info</label>
+												  <textarea class="form-control" name="extra" rows="4" placeholder="I started a web buisness venture not too long ago. Its been difficult finding viable ways to generate traffic, and I am also finding it challenging to convert the little traffic I am getting. Please Advise. "></textarea>
+											 </div>
+											 
+											 <br/>
+											 
+											 <div class="form-group">
+											 	<label for="mailList">Get marketing, coding, and business tips in your inbox?</label>
+												<select class="form-control" name="mailList">
+												  <option>Yes, send me free content from WebBusinessGeek-But dont spam me!</option>
+												  <option>Nope, Im good.</option>
+												</select>
+												<p class="help-block">*All content will be from my awesome site WebBusinessGeek.com</p>
+											 </div>
+											  
+											  <br/>
+											  <button type="submit" class="btn btn-primary">Send it to me!</button>
+										</form>
 										
 									</div><!--/.collapse-->
 										
