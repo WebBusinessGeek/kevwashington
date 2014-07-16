@@ -828,7 +828,7 @@
             <section id="cta" class="content-11">
                 <div class="container">
                     <span>Come on, you know you want to!</span>
-                    <a class="btn btn-large btn-danger" href="#">Work with me now</a>
+                    <a class="btn btn-large btn-danger" href="#work">Work with me now</a>
                 </div>
             </section>
             
