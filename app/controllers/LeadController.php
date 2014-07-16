@@ -67,7 +67,7 @@ class LeadController extends \BaseController {
 				$badMessage = "Couldn't save your info at this time. Care to try again?";
 				return Redirect::to('/#work')->with('badMessage', $badMessage);
 			else:
-				$successMessage = "Hey $name, <br/>I should be receiving your info shortly and will respond when able. <br/>Thank you reaching out to me.<br/> -Kev";
+				$successMessage = "Hey $name, <br/>I should be receiving your info shortly and will respond when able. <br/>Thank you for reaching out to me.<br/> -Kev";
 				return Redirect::to('/#work')->with('successMessage', $successMessage);
 			endif;
 		endif;
