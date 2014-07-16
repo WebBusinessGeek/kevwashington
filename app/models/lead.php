@@ -14,4 +14,24 @@ class Lead extends Eloquent {
 	
 	public $timestamps = true;
 
+
+
+
+public static $createFormRules = [
+				
+				'name' => 'required',
+				
+				'email' => 'required|email|unique:leads',
+				
+				'website' => 'url',
+				
+				'need' => 'required|in:leadGen,custAcq,prodDev,reDesign,teach,other',
+				
+				'extraInfo' => 'required_if:need,other',
+				
+				'mailList' => 'required|boolean'
+				
+				
+	];
+	
 }

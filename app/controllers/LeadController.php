@@ -31,7 +31,46 @@ class LeadController extends \BaseController {
 	 */
 	public function store()
 	{
-		//
+		$v = Validator::make(Input::all(), Lead::$createFormRules);
+		
+		if($v->fails()):
+			$badMessage = $v->messages(). ' Please try again with suggested changes.';
+			return Redirect::to('/#work')->with('badMessage', $badMessage);
+		else:
+		
+			$name = Input::get('name');
+			$email = Input::get('email');
+			$website = Input::get('website');
+			$need = Input::get('need');
+			$extraInfo = Input::get('extraInfo');
+			$mailList = Input::get('mailList');
+			
+			$newLead = Lead::create([
+					
+					'name' => $name,
+					
+					'email' => $email,
+					
+					'website' => $website,
+					
+					'need' => $need,
+					
+					'extraInfo' => $extraInfo,
+					
+					'mailList' => $mailList,
+			
+			]);
+			
+			$newLead->save();
+			
+			if(!isset($newLead->id)):
+				$badMessage = "Couldn't save your info at this time. Care to try again?";
+				return Redirect::to('/#work')->with('badMessage', $badMessage);
+			else:
+				$successMessage = "Hey $name, <br/>I should be receiving your info shortly and will respond when able. <br/>Thank you reaching out to me.<br/> -Kev";
+				return Redirect::to('/#work')->with('successMessage', $successMessage);
+			endif;
+		endif;
 	}
 
 

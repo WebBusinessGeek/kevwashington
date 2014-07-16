@@ -15,3 +15,6 @@ Route::get('/', function()
 {
 	return View::make('templates.cover');
 });
+
+
+Route::post('/contact', 'LeadController@store');
