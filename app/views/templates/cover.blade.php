@@ -120,7 +120,8 @@
                         	<div class="col-md-4 text-center">
                         		<div class="page-scroll">
                         			<a href="#skills">
-                        				<img src="http://placehold.it/200x200/138bff/ffffff">
+                        				<!--<img src="http://placehold.it/200x200/138bff/ffffff">-->
+                        				<img src='/images/icons/my-skills.png'>
                         				<br/><h4 class="hero2">My Skills</h4>
                         			</a>
                         		</div>
@@ -131,7 +132,8 @@
                         	<div class="col-md-4 text-center">
                         		<div class="page-scroll">
                         			<a href="#about">
-                        				<img  src="http://placehold.it/200x200/00ffe4/ffffff">
+                        				<!--<img  src="http://placehold.it/200x200/00ffe4/ffffff">-->
+                        				<img src='/images/icons/more-about-me.png'>
                         				<br/><h4 class="hero3">More About Me</h4>
                         			</a>	
                         		</div>
@@ -142,7 +144,8 @@
                         	<div class="col-md-4 text-center">
                         		<div class="page-scroll">
                         			<a href="#work">
-										<img src="http://placehold.it/200x200/F7563D/ffffff">
+										<!--<img src="http://placehold.it/200x200/F7563D/ffffff">-->
+										<img src='/images/icons/work-with-me.png'>
 										<br/><h4 class="hero4">Work with me?</h4>
 									</a>
 								</div>
