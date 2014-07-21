@@ -54,14 +54,14 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'kevwashingtonme',
-			'username'  => 'root',
-			'password'  => 'Washington12188',
+			'host'      => '107.170.46.92',
+			'database'  => 'forge',
+			'username'  => 'forge',
+			'password'  => '3aOaGM2GCYtHNnGpfrsr',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
-			'unix_socket' => '/tmp/mysql.sock',
+			
 		),
 
 		'pgsql' => array(
