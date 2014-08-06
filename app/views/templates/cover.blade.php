@@ -12,8 +12,8 @@
     <title>KevWashington- Product Leader</title>
 
 
-
-
+    <!-- favicon -->
+    <link rel="icon" type="image/ico" href="/images/favicon/KevWashington.ico"/>
 
     <!-- Bootstrap Core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
