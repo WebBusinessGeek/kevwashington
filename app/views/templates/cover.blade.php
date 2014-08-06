@@ -121,7 +121,7 @@
                         		<div class="page-scroll">
                         			<a href="#skills">
                         				<!--<img src="http://placehold.it/200x200/138bff/ffffff">-->
-                        				<img src='/images/icons/my-skills.png'>
+                        				<img src='/images/icons2/my-skills.png'>
                         				<br/><h4 class="hero2">My Skills</h4>
                         			</a>
                         		</div>
@@ -133,7 +133,7 @@
                         		<div class="page-scroll">
                         			<a href="#about">
                         				<!--<img  src="http://placehold.it/200x200/00ffe4/ffffff">-->
-                        				<img src='/images/icons/more-about-me.png'>
+                        				<img src='/images/icons2/more-about-me.png'>
                         				<br/><h4 class="hero3">More About Me</h4>
                         			</a>	
                         		</div>
@@ -145,7 +145,7 @@
                         		<div class="page-scroll">
                         			<a href="#work">
 										<!--<img src="http://placehold.it/200x200/F7563D/ffffff">-->
-										<img src='/images/icons/work-with-me.png'>
+										<img src='/images/icons2/work-with-me.png'>
 										<br/><h4 class="hero4">Work with me?</h4>
 									</a>
 								</div>
@@ -153,11 +153,7 @@
                        
                         
                         
-                        <div class="row">
-                        	<div class="col-md-12 text-center"><br/><br/><br/><br/><br/>
-                        		<span class="glyphicon glyphicon-chevron-down"></span>
-                        	</div>
-                        </div>
+                    
                     </div>
                     
                 
@@ -221,7 +217,7 @@
                             <h1>My Skills</h1>
                         
                         </div>
-                        <span class="glyphicon glyphicon-chevron-down"></span>
+                        
                     </div>
                     
                 </div>
@@ -403,10 +399,10 @@
                 <div>
                     <div class="container">
                         <div class="hero-unit">
-                            <h1>ABOUT ME HERO</h1>
+                            <h1>ABOUT ME</h1>
                         
                         </div>
-                        <span class="glyphicon glyphicon-chevron-down"></span>
+                        
                     </div>
                     
                 </div>
@@ -729,7 +725,7 @@
                         
                         
                         <div class="hero-unit">
-                            <h1>WORK WITH ME HERO</h1>
+                            <h1>WORK WITH ME</h1>
                             
                          </div>
                         
