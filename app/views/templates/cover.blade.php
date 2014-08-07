@@ -3,6 +3,8 @@
 <html lang="en">
 
 <head>
+    <!-- Google font -->
+    <link href='http://fonts.googleapis.com/css?family=Lobster|Roboto+Slab' rel='stylesheet' type='text/css'>
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -73,16 +75,16 @@
             <div class="navbar-collapse collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="page-scroll">
-                       <a href="#home"><span class="glyphicon glyphicon-home"></span></a>
+                       <a href="#home" class="navy"><span class="glyphicon glyphicon-home"></span></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#skills">My Skills</a>
+                        <a href="#skills" class="blue">My Skills</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">More About Me</a>
+                        <a href="#about" class="green">More About Me</a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#work">Work With Me?</a>
+                        <a href="#work" class="red">Work With Me?</a>
                     </li>
                 </ul>
             </div>
@@ -109,10 +111,10 @@
                     <div class="container">
                     	<div class="row">
                     		<div class="col-lg-12 text-center" >
-                            	<h1 style="font-size:40px;">Creativity. Marketing. Strategy. Code.</h1>	
+                            	<h1 style="font-size:55px; font-family:'Roboto Slab'">Creativity. Marketing. Strategy. Code.</h1>	
                         	</div>
                         </div>
-                        <br/><br/><br/><br/>
+                        <br/><br/><br/><br/><br/><br/><br/>
                        
                         
                         
@@ -122,7 +124,7 @@
                         			<a href="#skills">
                         				<!--<img src="http://placehold.it/200x200/138bff/ffffff">-->
                         				<img src='/images/icons2/my-skills.png'>
-                        				<br/><h4 class="hero2">My skills</h4>
+                        				<br/><h4 class="hero2" style="font-size:40px; font-family:'Lobster'">my Skills</h4>
                         			</a>
                         		</div>
                         	</div>
@@ -134,7 +136,7 @@
                         			<a href="#about">
                         				<!--<img  src="http://placehold.it/200x200/00ffe4/ffffff">-->
                         				<img src='/images/icons2/more-about-me.png'>
-                        				<br/><h4 class="hero3">More about me</h4>
+                        				<br/><h4 class="hero3" style="font-size:40px; font-family:'Lobster'">more About me</h4>
                         			</a>	
                         		</div>
                         	</div>
@@ -146,7 +148,7 @@
                         			<a href="#work">
 										<!--<img src="http://placehold.it/200x200/F7563D/ffffff">-->
 										<img src='/images/icons2/work-with-me.png'>
-										<br/><h4 class="hero4">Work with me</h4>
+										<br/><h4 class="hero4" style="font-size:40px; font-family:'Lobster'">work with Me</h4>
 									</a>
 								</div>
                         	</div>
@@ -214,7 +216,7 @@
                 <div>
                     <div class="container">
                         <div class="hero-unit">
-                            <h1>My Skills</h1>
+                            <h1 style="font-size:100px; font-family:'Lobster'">my Skills</h1>
                         
                         </div>
                         
@@ -244,7 +246,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
-                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		<h1><p class="lead">I enjoy helping businesses develop strategic campaigns that engage and interest prospective customers. More important than traffic is engagment of the right audience. I would rather bring in 100 visitors that are likely to buy or engage with our product, than 1000 poorly targeted visitors who won't. I accomplish this with extensive customer research, creative funnel construction, data driven optimization, and understanding the objectives clearly. 
                         		</p></h1>
                         	</div>
                         </div>
@@ -283,7 +285,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
-                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		<h1><p class="lead">My biggest strength would have to be sales. With over 8 years experience it would be pretty bad if I wasn't good at it by now. Identifying customer needs, building value in viable solutions, and annihilating objections with effective presentations are invaluable phases in my sales process. On the web this is accomplish with creative email marketing, effective content, conversion design, and sometimes old fashioned telemarketing. 
                         		</p></h1>
                         	</div>
                         </div>
@@ -320,7 +322,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section2-subheading-dark">
-                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		<h1><p class="lead">I LOVE building innovative software. From the planning to the launch of a new product I am 100% invested. I enjoy teaching owners the technical aspect of what they are trying to build while also helping them forecast the business side of the product. This includes marketing, branding, and revenue generation strategies. Currently building apps in PHP using Laravel as my choice framework. 
                         		</p></h1>
                         	</div>
                         </div>
@@ -354,13 +356,13 @@
                     	<!--header-->
                     	<div class="row">
                     		<div class="col-lg-12 text-center section2-heading">
-                        		<h2>Lastly, I Enjoy Business.</h2>
+                        		<h2>Lastly, I Enjoy ->Web<- Business.</h2>
                         	</div>
                         </div>
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
-                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		<h1><p class="lead">There are those who are adicted to programming, those who are addicted to design, there are even those who are addicted to the latest tech-markketing trends. I would have to say that I am ecited about all of these things and more. Anything dealing with web business usually will catch my eye. From innovative startups, to new computer language releases, to Google releasing another weirdly name update... (fingers crossed for the Possum update). I love the web and being apart of projects on it. 
                         		</p></h1>
                         	</div>
                         </div>
@@ -399,7 +401,7 @@
                 <div>
                     <div class="container">
                         <div class="hero-unit">
-                            <h1>ABOUT ME</h1>
+                            <h1 style="font-size:100px; font-family:'Lobster'">more About me</h1>
                         
                         </div>
                         
@@ -725,7 +727,7 @@
                         
                         
                         <div class="hero-unit">
-                            <h1>WORK WITH ME</h1>
+                            <h1 style="font-size:100px; font-family:'Lobster'">work with Me</h1>
                             
                          </div>
                         
@@ -903,11 +905,11 @@
 
 
     <script src="/js/jquery-1.10.2.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="/js/classie.js"></script>
-    <script src="/js/cbpAnimatedHeader.js"></script>
-    <script src="/js/freelancer.js"></script>
+    <script src="/js/bootstrap.min.js"></script> 
+   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script> 
+    <script src="/js/classie.js"></script> 
+    <script src="/js/cbpAnimatedHeader.js"></script> 
+    <script src="/js/freelancer.js"></script> 
     
 <!-- PARALLAX JAVASCRIPT -->
 
@@ -918,7 +920,7 @@
         <script src="/js/startup-kit.js"></script>
        <script src="js/jquery.backgroundvideo.min.js"></script>
         <script src="js/script.js"></script>
-        <script src="js/collapsed.js"></script>
+        <script src="js/collapsed.js"></script> 
 
 
 

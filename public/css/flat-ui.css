@@ -2140,17 +2140,61 @@ textarea.navbar-form .btn {
 .navbar-default .navbar-nav > li > a {
   color: #34495e;
 }
-.navbar-default .navbar-nav > li > a:hover,
-.navbar-default .navbar-nav > li > a:focus {
-  color: #1abc9c;
+
+/* declaration for link colors when changing */
+.navbar-default .navbar-nav > li > a.navy:hover,
+.navbar-default .navbar-nav > li > a.navy:focus {
+  color: grey;
   background-color: transparent;
 }
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-  color: #1abc9c;
+
+.navbar-default .navbar-nav > li > a.blue:hover,
+.navbar-default .navbar-nav > li > a.blue:focus {
+  color: #138bff;
   background-color: transparent;
 }
+
+.navbar-default .navbar-nav > li > a.green:hover,
+.navbar-default .navbar-nav > li > a.green:focus {
+  color: #00ffe4;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a.red:hover,
+.navbar-default .navbar-nav > li > a.red:focus {
+  color: #f7563d;
+  background-color: transparent;
+}
+
+
+.navbar-default .navbar-nav > .active  > a.navy,
+.navbar-default .navbar-nav > .active  > a.navy:hover,
+.navbar-default .navbar-nav > .active  > a.navy:focus {
+  color:  grey;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active  > a.blue,
+.navbar-default .navbar-nav > .active  > a.blue:hover,
+.navbar-default .navbar-nav > .active  > a.blue:focus {
+  color: #138bff;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active  > a.green,
+.navbar-default .navbar-nav > .active  > a.green:hover,
+.navbar-default .navbar-nav > .active  > a.green:focus {
+  color: #00ffe4;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav > .active  > a.red,
+.navbar-default .navbar-nav > .active  > a.red:hover,
+.navbar-default .navbar-nav > .active  > a.red:focus {
+  color: #f7563d;
+  background-color: transparent;
+}
+/*********************************************/
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
 .navbar-default .navbar-nav > .disabled > a:focus {
