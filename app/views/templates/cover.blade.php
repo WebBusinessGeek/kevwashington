@@ -615,7 +615,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section3-subheading">
-                        		<h1><p class="lead">I would say that I am someone who is perfectly content with a macbook air and an internet connectino. I work as a freelance marketer, programmer, and digital strategist. My clients include learning platforms, web designers, niche marketplaces, ecommerce distributors, legal service providers, and software companies. I majored in Advertising at Temple University but learned much more selling in the real world the past 8 years. I enjoy what I do and that pretty much sums it up.
+                        		<h1><p class="lead">I would say that I am someone who is perfectly content with a macbook air and an internet connection. I work as a freelance marketer, programmer, and digital strategist. My clients include learning platforms, web designers, niche marketplaces, ecommerce distributors, legal service providers, and software companies. I majored in Advertising at Temple University but learned much more selling in the real world over the course of 8 years. I enjoy what I do and that pretty much sums it up.
                         		</p></h1>
                         	</div>
                         </div>
