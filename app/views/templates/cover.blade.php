@@ -322,7 +322,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section2-subheading-dark">
-                        		<h1><p class="lead">I LOVE building innovative software. From the planning to the launch of a new product I am 100% invested. I enjoy teaching owners the technical aspect of what they are trying to build while also helping them forecast the business side of the product. This includes marketing, branding, and revenue generation strategies. Currently building apps in PHP using Laravel as my choice framework. 
+                        		<h1><p class="lead">Its nothing like starting a new software project. From the planning to the launch of a new product I am 100% focused. I enjoy teaching owners the technical aspect of what they are trying to build while also helping them forecast the business side of the product. Things like marketing, branding, and revenue generation strategies. I speak PHP and use Laravel mostly, I can also develop in AngularJS or raw jQuery on the front end if needed. 
                         		</p></h1>
                         	</div>
                         </div>
