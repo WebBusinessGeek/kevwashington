@@ -356,7 +356,7 @@
                     	<!--header-->
                     	<div class="row">
                     		<div class="col-lg-12 text-center section2-heading">
-                        		<h2>Lastly, I Enjoy ->Web<- Business.</h2>
+                        		<h2>I Enjoy Web Business.</h2>
                         	</div>
                         </div>
                         <!--subheader-->
