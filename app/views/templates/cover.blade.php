@@ -246,7 +246,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
-                        		<h1><p class="lead">I enjoy helping businesses develop strategic campaigns that engage and interest prospective customers. More important than traffic is engagment of the right audience. I would rather bring in 100 visitors that are likely to buy or engage with our product, than 1000 poorly targeted visitors who won't. I accomplish this with extensive customer research, creative funnel construction, data driven optimization, and understanding the objectives clearly. 
+                        		<h1><p class="lead">I help businesses develop strategic campaigns that engage and interest prospective customers. More important than traffic is the engagment of the right audience. I would rather bring in 100 visitors that are likely to buy or engage with the product, than 1000 poorly targeted visitors who won't. I accomplish this with extensive customer research, creative funnel construction, data driven optimization, and understanding the objectives clearly. 
                         		</p></h1>
                         	</div>
                         </div>
@@ -285,7 +285,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
-                        		<h1><p class="lead">I admit it... Im a closer. Identifying customer needs, building value in viable solutions, and annihilating objections with effective presentations have become as natural as breathing over these last 8 years selling various products and services. My web sales arsenal includes creative email marketing, strategic content promotion, and designing and optimizing web content for conversions.
+                        		<h1><p class="lead">I admit it... Im a closer. Identifying customer needs, building value in viable solutions, and annihilating objections with effective presentations have become as natural as breathing over these last 8 years of pushing various products and services. My web sales arsenal includes creative email marketing, strategic content promotion, and designing and optimizing web content for conversions.
                         		</p></h1>
                         	</div>
                         </div>
