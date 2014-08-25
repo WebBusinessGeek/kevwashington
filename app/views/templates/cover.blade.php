@@ -643,7 +643,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section3-subheadingLight">
-                        		<h1><p class="lead">Some additional info about me is that I am a follower of Jesus Christ, and work on the tech and usher teams at my church. I enjoy learning new things and overcoming challenges - whether they are professional, personal, or someone else's - I enjoy strategizing and solving real problems. My dislikes are the occasional instances of my wifi router not working, waiting for Comcast to fix it, and knowing they will get paid anyway. Oh and I also dislike cats. Relax PETA, I have a soft spot for dogs. 
+                        		<h1><p class="lead">Some additional info about me is that I am a follower of Jesus Christ, and work on the tech and usher teams at my church. I enjoy learning new things and overcoming challenges - whether they are professional, personal, or someone else's - I enjoy strategizing and solving real problems. My dislikes are the occasional instances of my wifi router not working, waiting for Comcast to fix it, and knowing they will get paid anyway. Oh and I also dislike cats. Relax all you activists, I have a soft spot for dogs. 
                         		</p></h1>
                         	</div>
                         </div>
