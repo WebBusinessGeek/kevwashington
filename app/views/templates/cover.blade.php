@@ -285,7 +285,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section2-subheading">
-                        		<h1><p class="lead">My biggest strength would have to be sales. With over 8 years experience it would be pretty bad if I wasn't good at it by now. Identifying customer needs, building value in viable solutions, and annihilating objections with effective presentations are invaluable phases in my sales process. On the web this is accomplish with creative email marketing, effective content, conversion design, and sometimes old fashioned telemarketing. 
+                        		<h1><p class="lead">I admit it... Im a closer. Identifying customer needs, building value in viable solutions, and annihilating objections with effective presentations have become as natural as breathing over these last 8 years selling various products and services. My web sales arsenal includes creative email marketing, strategic content promotion, and designing and optimizing web content for conversions.
                         		</p></h1>
                         	</div>
                         </div>
