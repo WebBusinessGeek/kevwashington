@@ -615,7 +615,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section3-subheading">
-                        		<h1><p class="lead">I would say that I am someone who is perfectly content with a macbook air and an internet connection. I work as a freelance marketer, programmer, and digital strategist. My clients include learning platforms, web designers, niche marketplaces, ecommerce distributors, legal service providers, and software companies. I majored in Advertising at Temple University but learned much more selling in the real world over the course of 8 years. I enjoy what I do and that pretty much sums it up.
+                        		<h1><p class="lead">I would say that I am someone who is perfectly content with a macbook air and an internet connection. I work as a freelance marketer, programmer, and digital strategist. My clients include learning platforms, web designers, niche marketplaces, ecommerce distributors, legal service providers, and software companies. I majored in Advertising at Temple University but learned much more selling in the real world the past 8 years. I enjoy what I do and that pretty much sums it up.
                         		</p></h1>
                         	</div>
                         </div>
@@ -671,7 +671,11 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section3-subheading">
-                        		<h1><p class="lead">I am looking for clients that are serious about launching or growing their businesses and have the skills or resources to be successful. The right client to me is someone who understands that hard work, dedication, and diligence pays off - but also recognizes the importance of turning a profit. More descriptively, I look for clients who have tech skills but need assistance with marketing, clients who have limited tech know how but a great idea and means to bring it to market, or clients who have established businesses and are looking for growth. 
+                        		<h1><p class="lead">I am looking for clients that are serious about launching or growing their businesses and have the skills or resources to be successful. The right client to me is someone who understands that hard work, dedication, and diligence pays off - but also recognizes the importance of turning a profit.<hr/> <p class="lead">More descriptively, I look for:</p> 
+<ul>
+<li style="font-size: 16px; text-align:left;margin-bottom:25px;">Collaborators who have tech skills but need help with marketing.</li>
+<li style="font-size: 16px;text-align:left;margin-bottom:25px;">Clients with limited tech skills but a passion to bring a great idea to market.</li>
+<li style="font-size: 16px;text-align:left;margin-bottom:25px;">Owners who have established businesses and are looking for growth.</li> </ul>
                         		</p></h1>
                         	</div>
                         </div>
