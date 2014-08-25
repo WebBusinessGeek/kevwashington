@@ -615,7 +615,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section3-subheading">
-                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		<h1><p class="lead">I would say that I am someone who is perfectly content with a macbook air and an internet connectino. I work as a freelance marketer, programmer, and digital strategist. My clients include learning platforms, web designers, niche marketplaces, ecommerce distributors, legal service providers, and software companies. I majored in Advertising at Temple University but learned much more selling in the real world the past 8 years. I enjoy what I do and that pretty much sums it up.
                         		</p></h1>
                         	</div>
                         </div>
@@ -636,14 +636,14 @@
                     
                        	<div class="row">
                     		<div class="col-lg-12 text-center section3-headingLight">
-                        		<h2>Things I like to do.</h2>
+                        		<h2>TMI</h2>
                         	</div>
                         </div>
                         
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section3-subheadingLight">
-                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		<h1><p class="lead">Some additional info about me is that I am a follower of Jesus Christ, and work on the tech and usher teams at my church. I enjoy learning new things and overcoming challenges - whether they are professional, personal, or someone else's - I enjoy strategizing and solving real problems. My dislikes are the occasional instances of my wifi router not working, waiting for Comcast to fix it, and knowing they will get paid anyway. Oh and I also dislike cats. Relax PETA, I have a soft spot for dogs. 
                         		</p></h1>
                         	</div>
                         </div>
@@ -671,7 +671,7 @@
                         <!--subheader-->
                         <div class="row">
                         	<div class="col-md-8 col-md-offset-2 text-center section3-subheading">
-                        		<h1><p class="lead">Tiramisu gummies sesame snaps lemon drops gummies fruitcake powder gummi bears jelly beans. Toffee candy canes macaroon dragée jujubes. Halvah sugar plum lemon drops gummies cupcake croissant dragée biscuit. Biscuit jelly beans gummi bears. Jelly lollipop icing powder. Biscuit caramels unerdwear.com jelly beans sugar plum cotton candy tootsie roll.
+                        		<h1><p class="lead">I am looking for clients that are serious about launching or growing their businesses and have the skills or resources to be successful. The right client to me is someone who understands that hard work, dedication, and diligence pays off - but also recognizes the importance of turning a profit. More descriptively, I look for clients who have tech skills but need assistance with marketing, clients who have limited tech know how but a great idea and means to bring it to market, or clients who have established businesses and are looking for growth. 
                         		</p></h1>
                         	</div>
                         </div>
